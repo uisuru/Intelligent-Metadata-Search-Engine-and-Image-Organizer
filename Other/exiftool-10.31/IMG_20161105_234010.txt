@@ -1,0 +1,122 @@
+---- ExifTool ----
+ExifTool Version Number         : 10.31
+---- System ----
+File Name                       : IMG_20161105_234010.jpg
+Directory                       : C:/Users/Isuru/Desktop/exiftool-10.31
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2016:11:05 23:41:03+05:30
+File Access Date/Time           : 2016:11:06 18:10:22+05:30
+File Creation Date/Time         : 2016:11:06 18:10:22+05:30
+File Permissions                : rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 3120
+Image Height                    : 4160
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- GPS ----
+GPS Version ID                  : 2.2.0.0
+GPS Date Stamp                  : 2016:11:05
+GPS Altitude Ref                : Below Sea Level
+GPS Longitude Ref               : East
+GPS Longitude                   : 80 deg 30' 4.45"
+GPS Processing Method           : GPS
+GPS Latitude Ref                : North
+GPS Time Stamp                  : 18:10:10
+GPS Altitude                    : 159.37 m
+GPS Latitude                    : 5 deg 56' 46.30"
+---- IFD0 ----
+Camera Model Name               : HUAWEI VNS-L31
+Orientation                     : Horizontal (normal)
+Image Description               : dav
+Device Setting Description      : (Binary data 4 bytes, use -b option to extract)
+Modify Date                     : 2016:11:05 23:40:10
+Image Width                     : 3120
+Bits Per Sample                 : 8 8 8
+Y Cb Cr Positioning             : Centered
+Resolution Unit                 : inches
+Image Height                    : 4160
+Y Resolution                    : 72
+Software                        : VNS-L31C636B161
+X Resolution                    : 72
+Make                            : HUAWEI
+---- ExifIFD ----
+Color Space                     : sRGB
+Create Date                     : 2016:11:05 23:40:10
+F Number                        : 2.0
+Subject Distance Range          : Unknown
+Focal Length                    : 3.8 mm
+Aperture Value                  : 2.0
+Light Source                    : Daylight
+Exposure Mode                   : Auto
+Sub Sec Time Digitized          : 820566
+Exif Image Height               : 4160
+Focal Length In 35mm Format     : 27 mm
+Custom Rendered                 : Custom
+Scene Capture Type              : Standard
+Scene Type                      : Directly photographed
+Sub Sec Time Original           : 820566
+Digital Zoom Ratio              : 1
+Saturation                      : Normal
+Document Name                   : 
+Exposure Program                : Program AE
+Sharpness                       : Normal
+White Balance                   : Auto
+Exif Image Width                : 3120
+Sub Sec Time                    : 820566
+Shutter Speed Value             : 1/999963365
+Metering Mode                   : Multi-segment
+Date/Time Original              : 2016:11:05 23:40:10
+File Source                     : Digital Camera
+Gain Control                    : None
+Components Configuration        : Y, Cb, Cr, -
+Flash                           : Auto, Did not fire
+Exif Version                    : 0210
+Contrast                        : Normal
+Exposure Compensation           : 0
+Brightness Value                : 0
+ISO                             : 80
+Sensing Method                  : One-chip color area
+Flashpix Version                : 0100
+Maker Note Unknown Text         : Auto
+Exposure Time                   : 1/33
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Image Width                     : 384
+Resolution Unit                 : inches
+Image Height                    : 512
+Y Resolution                    : 72
+Orientation                     : Unknown (0)
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- Composite ----
+Aperture                        : 2.0
+GPS Altitude                    : 159.3 m Below Sea Level
+GPS Date/Time                   : 2016:11:05 18:10:10Z
+GPS Latitude                    : 5 deg 56' 46.30" N
+GPS Longitude                   : 80 deg 30' 4.45" E
+GPS Position                    : 5 deg 56' 46.30" N, 80 deg 30' 4.45" E
+Image Size                      : 3120x4160
+Megapixels                      : 13.0
+Scale Factor To 35 mm Equivalent: 7.1
+Shutter Speed                   : 1/33
+Create Date                     : 2016:11:05 23:40:10.820566
+Date/Time Original              : 2016:11:05 23:40:10.820566
+Modify Date                     : 2016:11:05 23:40:10.820566
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 67.4 deg
+Focal Length                    : 3.8 mm (35 mm equivalent: 27.0 mm)
+Hyperfocal Distance             : 1.70 m
+Light Value                     : 7.4

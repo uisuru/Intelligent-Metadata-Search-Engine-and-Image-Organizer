@@ -1,0 +1,106 @@
+---- ExifTool ----
+ExifTool Version Number         : 10.31
+---- System ----
+File Name                       : Basic Accounting in 10 minutes Tutorial.mp4
+Directory                       : C:/Users/Isuru/Desktop/exiftool-10.31
+File Size                       : 85 MB
+File Modification Date/Time     : 2016:11:05 07:07:40+05:30
+File Access Date/Time           : 2016:11:05 07:08:53+05:30
+File Creation Date/Time         : 2016:11:05 07:08:53+05:30
+File Permissions                : rw-rw-rw-
+---- File ----
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+---- QuickTime ----
+Major Brand                     : MP4 v2 [ISO 14496-14]
+Minor Version                   : 0.0.0
+Compatible Brands               : isom, mp42
+Movie Header Version            : 0
+Create Date                     : 2016:08:11 13:51:41
+Modify Date                     : 2016:08:11 13:51:41
+Time Scale                      : 90000
+Duration                        : 0:10:38
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 3
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+Google Start Time               : 0
+Google Track Duration           : 0:10:38
+Movie Data Size                 : 88676496
+Movie Data Offset               : 286360
+---- Track1 ----
+Track Header Version            : 0
+Track Create Date               : 2016:08:11 13:51:41
+Track Modify Date               : 2016:08:11 13:51:41
+Track ID                        : 1
+Track Duration                  : 0:10:38
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1280
+Image Height                    : 720
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2016:08:11 13:51:41
+Media Modify Date               : 2016:08:11 13:51:41
+Media Time Scale                : 90000
+Media Duration                  : 0:10:38
+Media Language Code             : und
+Handler Type                    : Video Track
+Handler Description             : ISO Media file produced by Google Inc.
+Compressor ID                   : avc1
+Source Image Width              : 1280
+Source Image Height             : 720
+X Resolution                    : 72
+Y Resolution                    : 72
+Bit Depth                       : 24
+Unknown avcC                    : (Binary data 37 bytes, use -b option to extract)
+Video Frame Rate                : 29.97
+Sample To Chunk                 : (Binary data 896 bytes, use -b option to extract)
+Chunk Offset                    : (Binary data 5508 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 76552 bytes, use -b option to extract)
+Sync Sample Table               : (Binary data 520 bytes, use -b option to extract)
+Composition Time To Sample      : (Binary data 86112 bytes, use -b option to extract)
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+---- Track2 ----
+Track Header Version            : 0
+Track Create Date               : 2016:08:11 13:51:41
+Track Modify Date               : 2016:08:11 13:51:41
+Track ID                        : 2
+Track Duration                  : 0:10:38
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Media Header Version            : 0
+Media Create Date               : 2016:08:11 13:51:41
+Media Modify Date               : 2016:08:11 13:51:41
+Media Time Scale                : 44100
+Media Duration                  : 0:10:38
+Media Language Code             : und
+Handler Type                    : Audio Track
+Handler Description             : ISO Media file produced by Google Inc.
+Audio Format                    : mp4a
+Audio Channels                  : 2
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 44100
+Unknown esds                    : (Binary data 31 bytes, use -b option to extract)
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 44 bytes, use -b option to extract)
+Chunk Offset                    : (Binary data 5508 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 110000 bytes, use -b option to extract)
+Balance                         : 0
+---- Composite ----
+Avg Bitrate                     : 1.11 Mbps
+Image Size                      : 1280x720
+Megapixels                      : 0.922
+Rotation                        : 0
